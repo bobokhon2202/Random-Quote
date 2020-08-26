@@ -1,0 +1,26 @@
+#btnQuote{
+    padding: 15px;
+    margin-left: 650px;
+    margin-top: 100px;
+    border-radius: 12pxx;
+    border-color: aqua;
+    border-width: 6px;
+    background-color: rgb(255,228,196);
+    font-style:  inherit;
+    font-size: 20px;
+    
+}
+
+#btnQuote:hover{
+    color: red;
+}
+
+body{
+    background-color: rgb(240,255,240);
+}
+
+p{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 70px;
+}
